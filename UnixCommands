@@ -1,0 +1,8 @@
+1. history | grep "cat" | wc -l
+
+2. cat /usr/share/dict/words | grep "^a" 
+
+3. cat /usr/share/dict/words | grep -E "^a.*s$"
+
+4. no idea
+
